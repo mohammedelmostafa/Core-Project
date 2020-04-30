@@ -1,0 +1,12 @@
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.deps.json
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.dll
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.pdb
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.dll
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.pdb
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csprojAssemblyReference.cache
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csproj.CoreCompileInputs.cache
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.AssemblyInfoInputs.cache
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.AssemblyInfo.cs
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csproj.CopyComplete
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.dll
+G:\Net Core Projects\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.pdb
