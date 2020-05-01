@@ -1,0 +1,4 @@
+G:\Net Core Projects\Code\PracticalApps\NorthwindWeb\obj\Debug\netstandard2.1\NorthwindWeb.csprojAssemblyReference.cache
+G:\Net Core Projects\Code\PracticalApps\NorthwindWeb\obj\Debug\netstandard2.1\NorthwindWeb.csproj.CoreCompileInputs.cache
+G:\Net Core Projects\Code\PracticalApps\NorthwindWeb\obj\Debug\netstandard2.1\NorthwindWeb.AssemblyInfoInputs.cache
+G:\Net Core Projects\Code\PracticalApps\NorthwindWeb\obj\Debug\netstandard2.1\NorthwindWeb.AssemblyInfo.cs
