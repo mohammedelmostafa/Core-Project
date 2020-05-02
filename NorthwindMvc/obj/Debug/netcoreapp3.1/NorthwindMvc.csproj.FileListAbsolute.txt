@@ -90,3 +90,7 @@ G:\Net Core Projects\Code\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\sta
 G:\Net Core Projects\Code\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\NorthwindMvc.dll
 G:\Net Core Projects\Code\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\NorthwindMvc.pdb
 G:\Net Core Projects\Code\PracticalApps\NorthwindMvc\obj\Debug\netcoreapp3.1\NorthwindMvc.genruntimeconfig.cache
+G:\Net Core Projects\Code\PracticalApps\NorthwindMvc\bin\Debug\netcoreapp3.1\NorthwindContextLib.dll
+G:\Net Core Projects\Code\PracticalApps\NorthwindMvc\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.dll
+G:\Net Core Projects\Code\PracticalApps\NorthwindMvc\bin\Debug\netcoreapp3.1\NorthwindContextLib.pdb
+G:\Net Core Projects\Code\PracticalApps\NorthwindMvc\bin\Debug\netcoreapp3.1\NorthwindEntitiesLib.pdb
